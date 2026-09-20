@@ -1695,7 +1695,7 @@ input::-moz-focus-inner {
 .masonry .grid-sizer,
 .masonry__brick {
     float : left;
-    width : 25%;
+    width : 33.33%;
 }
 
 .masonry__brick {
